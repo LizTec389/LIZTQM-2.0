@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\LizCodigo2\LizCodigo2\bin\Debug\LizCodigo2.exe.config
+C:\Users\USER\source\repos\LizCodigo2\LizCodigo2\bin\Debug\LizCodigo2.exe
+C:\Users\USER\source\repos\LizCodigo2\LizCodigo2\bin\Debug\LizCodigo2.pdb
+C:\Users\USER\source\repos\LizCodigo2\LizCodigo2\obj\Debug\LizCodigo2.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\LizCodigo2\LizCodigo2\obj\Debug\LizCodigo2.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\LizCodigo2\LizCodigo2\obj\Debug\LizCodigo2.exe
+C:\Users\USER\source\repos\LizCodigo2\LizCodigo2\obj\Debug\LizCodigo2.pdb
